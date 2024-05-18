@@ -40,4 +40,4 @@ Clone the repository: git clone https://github.com/Risper8/Churn-Project/
 
 * Python
   
-* Pandas, NumPy, Scikit-learn
+* Pandas and Scikit-learn
